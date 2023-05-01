@@ -8,7 +8,7 @@
   // App Root
   define('APPROOT', dirname(dirname(__FILE__)));
   // URL Root
-  define('URLROOT', 'http://localhost/shoppinglist');
+  define('URLROOT', 'http://localhost/cmv-tech-assesment');
   // Site Name
   define('SITENAME', 'Shopping List');
   
